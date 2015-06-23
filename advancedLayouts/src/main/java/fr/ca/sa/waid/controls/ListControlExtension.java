@@ -53,8 +53,8 @@ public class ListControlExtension extends ManagedControlExtension {
      * String array with sample data to be displayed in list.
      */
     private String[] mListContent = {
-            "Projet 1", "Projet 2", "Projet 3", "Projet 4", "Projet 5",
-            "Projet 6", "Projet 7", "Projet 8", "Projet 9", "Projet 10"
+            "E - BPI - Myjobs ", "E - DCC AFRICA CA", "E - DRG - DATAMARTS", "F - RHG GALATEE", "P - BPM - Cash Portal",
+            "P - BPM - Palma", "P - DCC - ARPEGE ", "Projet 8", "Projet 9", "Projet 10"
     };
 
     protected int mLastKnowPosition = 0;

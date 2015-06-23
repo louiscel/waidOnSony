@@ -46,7 +46,11 @@
     <eat-comment/>
     <string name="app_name">WAID</string>
     <string name="configuration_text">Advanced Layouts settings</string>
-    <string name="extension_name">Advanced Layouts</string>
+    <string name="extension_name">WAID</string>
+    <string name="favorite_added">Projet ajouté aux favoris</string>
+    <string name="favorite_removed">Projet retiré des favoris</string>
+    <string name="main_activity_title">WAID</string>
+    <string name="no_favorites">"Vous n'avez pas encore de projets favoris"</string>
     <string name="preference_activity_title">Advanced Layouts</string>
     <!-- From: file:/home/celine/AndroidStudioProjects/AdvancedLayouts/advancedLayouts/src/main/res/values/privatestrings.xml -->
     <eat-comment/>

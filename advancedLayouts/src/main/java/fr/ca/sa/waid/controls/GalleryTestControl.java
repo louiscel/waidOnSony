@@ -54,8 +54,8 @@ public class GalleryTestControl extends ManagedControlExtension {
      * String array with dummy data to be displayed in gallery.
      */
     private String[] mGalleryContent = {
-            "Detail Item 1", "Detail Item 2", "Detail Item 3", "Detail Item 4", "Detail Item 5",
-            "Detail Item 6", "Detail Item 7", "Detail Item 8", "Detail Item 9", "Detail Item 10"
+            "Projet 1", "Projet 2", "Projet 3", "Projet 4", "Projet 5",
+            "Projet 6", "Projet 7", "Projet 8", "Projet 9", "Projet 10"
     };
 
     /**
