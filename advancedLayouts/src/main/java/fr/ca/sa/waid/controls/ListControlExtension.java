@@ -54,7 +54,7 @@ public class ListControlExtension extends ManagedControlExtension {
      */
     private String[] mListContent = {
             "E - BPI - Myjobs ", "E - DCC AFRICA CA", "E - DRG - DATAMARTS", "F - RHG GALATEE", "P - BPM - Cash Portal",
-            "P - BPM - Palma", "P - DCC - ARPEGE ", "Projet 8", "Projet 9", "Projet 10"
+            "P - BPM - Palma", "P - DCC - ARPEGE ", "P - DRG - RCP v2.2 Progica", "P - DRG - SIMCA PROGICA", "P - FIN ALM_PALMA_SCTD"
     };
 
     protected int mLastKnowPosition = 0;
